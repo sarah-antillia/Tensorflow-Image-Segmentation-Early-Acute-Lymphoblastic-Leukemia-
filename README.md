@@ -231,7 +231,7 @@ Evaluation console output:<br>
 
 <a href="./projects/TensorflowSlightlyFlexibleUNet/Early-Acute-Lymphoblastic-Leukemia/evaluation.csv">evaluation.csv</a><br>
 
-The loss (bce_dice_loss) to this Early-Acute-Lymphoblastic-Leukemia/test was not low, but dice_coef not high as shown below.
+The loss (bce_dice_loss) to this Early-Acute-Lymphoblastic-Leukemia/test was not low, and dice_coef not high as shown below.
 <br>
 <pre>
 loss,0.1295
